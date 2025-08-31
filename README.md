@@ -25,5 +25,9 @@ So I decided: Why not make my own solution?
 
 That's how this came to exist explained in less than 20 lines of text.
 
+But how do you use it?
+
+It uses Docker, the underlying technlogy behind tons of things that you use. You can run Windows on a Mac using Docker. So you need Docker installed on your computer. Learn how to install it [here](https://docs.docker.com/engine/install/). You will need to use [this image](https://hub.docker.com/r/cimg/android) and build a container. If you don't know how to do that, learn it [here](https://www.youtube.com/watch?v=eGz9DS-aIeY) I'm too lazy and sleepy (I'm writing this at 12AM here in Seattle) to actually explain to you. Anyway, now that you have the Android, you can go to the Play Store and install Roblox (and probably grind on it for hours)
+And for those people asking why I am not using iOS, it's easier to get a copy of Android for free, but a copy of iOS? I'll have to pay majority of my college fund (yes, I am a kid writing this) just for an iOS copy. And if you want iOS, I'll have to change this from open-source, to $2000 USD for one copy of this. This was made to be a completely free alternative to Wine and Sober if you don't feel comfortable working with them or it does not work with your computer.
+
 Written by: @akishore15
-How to use coming soon!
